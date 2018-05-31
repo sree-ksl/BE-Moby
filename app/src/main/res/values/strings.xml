@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BE Moby(Tron)</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello TRON!</string>
+    <string name="slide_1_desc">The easiest way to look into the TRON network!</string>
+
+    <string name="slide_2_title">Blocks</string>
+    <string name="slide_2_desc">Explore Blocks!</string>
+
+    <string name="slide_3_title">Transactions</string>
+    <string name="slide_3_desc">Look into transaction volumes.</string>
+
+    <string name="slide_4_title">Dive In</string>
+    <string name="slide_4_desc">Go!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> TronMob -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
