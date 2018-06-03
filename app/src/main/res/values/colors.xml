@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -35,4 +35,8 @@
         <item>@color/dot_dark_screen3</item>
         <item>@color/dot_dark_screen4</item>
     </array>
+
+    <color name="positiveChange">#4CAF50</color>
+    <color name="negativeChange">#D50000</color>
+    <color name="backgroundColor">#212121</color>
 </resources>

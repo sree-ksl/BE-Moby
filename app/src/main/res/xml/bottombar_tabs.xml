@@ -1,0 +1,17 @@
+<tabs>
+    <tab
+        id="@+id/tab_block_explorer"
+        icon="@drawable/ic_view_module_black_24px"
+        title="Block Explorer"
+        barColorWhenSelected="@color/colorAccent"/>
+    <tab
+        id="@+id/tab_wallet"
+        icon="@drawable/ic_account_balance_wallet_black_24px"
+        title="Wallet"
+        barColorWhenSelected="@color/colorAccent" />
+    <tab
+        id="@+id/tab_settings"
+        icon="@drawable/ic_settings_black_24dp"
+        title="Settings"
+        barColorWhenSelected="@color/colorAccent" />
+</tabs>
